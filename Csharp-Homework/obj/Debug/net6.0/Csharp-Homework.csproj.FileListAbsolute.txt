@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\farid\C#\C# Homework\Csharp-Homework\Csharp-Homework\bin\Debug\net6.0\Csharp-Homework.exe
+C:\Users\Lenovo\Desktop\farid\C#\C# Homework\Csharp-Homework\Csharp-Homework\bin\Debug\net6.0\Csharp-Homework.deps.json
+C:\Users\Lenovo\Desktop\farid\C#\C# Homework\Csharp-Homework\Csharp-Homework\bin\Debug\net6.0\Csharp-Homework.runtimeconfig.json
+C:\Users\Lenovo\Desktop\farid\C#\C# Homework\Csharp-Homework\Csharp-Homework\bin\Debug\net6.0\Csharp-Homework.dll
+C:\Users\Lenovo\Desktop\farid\C#\C# Homework\Csharp-Homework\Csharp-Homework\bin\Debug\net6.0\Csharp-Homework.pdb
+C:\Users\Lenovo\Desktop\farid\C#\C# Homework\Csharp-Homework\Csharp-Homework\obj\Debug\net6.0\Csharp-Homework.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\farid\C#\C# Homework\Csharp-Homework\Csharp-Homework\obj\Debug\net6.0\Csharp-Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\farid\C#\C# Homework\Csharp-Homework\Csharp-Homework\obj\Debug\net6.0\Csharp-Homework.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\farid\C#\C# Homework\Csharp-Homework\Csharp-Homework\obj\Debug\net6.0\Csharp-Homework.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\farid\C#\C# Homework\Csharp-Homework\Csharp-Homework\obj\Debug\net6.0\Csharp-Homework.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\farid\C#\C# Homework\Csharp-Homework\Csharp-Homework\obj\Debug\net6.0\Csharp-Homework.dll
+C:\Users\Lenovo\Desktop\farid\C#\C# Homework\Csharp-Homework\Csharp-Homework\obj\Debug\net6.0\refint\Csharp-Homework.dll
+C:\Users\Lenovo\Desktop\farid\C#\C# Homework\Csharp-Homework\Csharp-Homework\obj\Debug\net6.0\Csharp-Homework.pdb
+C:\Users\Lenovo\Desktop\farid\C#\C# Homework\Csharp-Homework\Csharp-Homework\obj\Debug\net6.0\Csharp-Homework.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\farid\C#\C# Homework\Csharp-Homework\Csharp-Homework\obj\Debug\net6.0\ref\Csharp-Homework.dll
